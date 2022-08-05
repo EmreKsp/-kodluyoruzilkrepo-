@@ -14,5 +14,8 @@ code .
 ```
 # Contributing 
 Pull requestler kabul edilir.Büyük değişiklikler için, lütfen ilk önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
 # Licence
 [MIT](www.google.com)
+## Patika Linkim
+[Buradan](https://app.patika.dev/exthia) patika profilime ulaşabilirsiniz.

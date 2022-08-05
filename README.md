@@ -19,4 +19,6 @@ Pull requestler kabul edilir.Büyük değişiklikler için, lütfen ilk önce ne
 [MIT](www.google.com)
 ## Patika Linkim
 [Buradan](https://app.patika.dev/exthia) patika profilime ulaşabilirsiniz.
+
+
 ![Görsel](https://prnt.sc/j2A3a128Xc-6)
